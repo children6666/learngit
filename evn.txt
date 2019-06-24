@@ -1,1 +1,2 @@
-env.txt 123
+env.txt 123 haha
+update apple
